@@ -10,7 +10,7 @@
 
 **Corresponding Author:** Markus Krecik, Economics Department, Freie Universität, Boltzmannstr. 20, 14195 Berlin
 
-**Email:** markus.krecik@fu-berlin.de
+**Email:** m.krecik@fu-berlin.de
 
 
 ## Overview
